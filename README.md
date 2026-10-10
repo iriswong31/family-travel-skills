@@ -8,7 +8,7 @@
 | Skill | 目录 | 做什么 |
 |-------|------|--------|
 | **Family Slow Travel Planner**｜家庭松弛旅行策划 | [`family-slow-travel-planner/`](./family-slow-travel-planner/) | 交通骨架、酒店筛选、午睡锚点、每日主题、景点取舍、餐饮、Plan B、A4 攻略、行李清单、微信分享长图 |
-| **Travel Capsule Wardrobe**｜旅行胶囊穿搭 | [`travel-capsule-wardrobe/`](./travel-capsule-wardrobe/) | 少量高复用衣物 → 多套 Look；场景/天气适配；打包清单与每日穿搭表 |
+| **Travel Capsule Wardrobe**｜旅行胶囊穿搭 | [`travel-capsule-wardrobe/`](./travel-capsule-wardrobe/) | 少量高复用衣物 → 多套 Look；场景/天气适配；打包清单与每日穿搭表；**分角色（老人/成人/小孩）视觉包 + 当日家庭色系 + AI 生图提示词** |
 
 两个 Skill 可独立使用，也可联动：家庭行程定稿后，在行李阶段调用穿搭 Skill 生成衣物与每日 Look。
 
@@ -52,7 +52,8 @@ npx skills add iriswong31/family-travel-skills
 
 ## 版本
 
-当前内容版本：**v1.1**（2026-09-23）
+- 家庭松弛旅行策划：**v1.1**（联动说明含 v1.2 视觉包）
+- 旅行胶囊穿搭：**v1.2**（2026-10-10，新增家庭分角色视觉包与 AI 生图提示词）
 
 ## License
 
