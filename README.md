@@ -8,7 +8,10 @@
 | Skill | 目录 | 做什么 |
 |-------|------|--------|
 | **Family Slow Travel Planner**｜家庭松弛旅行策划 | [`family-slow-travel-planner/`](./family-slow-travel-planner/) | 交通骨架、酒店筛选、午睡锚点、每日主题、景点取舍、餐饮、Plan B、A4 攻略、行李清单、微信分享长图 |
+
 | **Travel Capsule Wardrobe**｜旅行胶囊穿搭 | [`travel-capsule-wardrobe/`](./travel-capsule-wardrobe/) | 少量高复用衣物 → 多套 Look；场景/天气适配；打包清单与每日穿搭表；**分角色（老人/成人/小孩）视觉包 + 当日家庭色系 + AI 生图提示词** |
+
+旅行策划 Skill 是给 AI 助手执行的流程，不自带实时机票、酒店或餐饮数据库。给出时间段、目的地和同行人的始发地后，具备联网工具的助手会按 Skill 查公开班次、近期评价和可见价格，并附来源及查询日期；没有联网工具时只给待核实的规划草案，不会虚构实时结果。预订与付款仍需用户确认。
 
 两个 Skill 可独立使用，也可联动：家庭行程定稿后，在行李阶段调用穿搭 Skill 生成衣物与每日 Look。
 
