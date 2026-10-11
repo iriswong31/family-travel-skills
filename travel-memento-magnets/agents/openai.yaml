@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行纪念冰箱贴 skill"
+  short_description: "用真实行程和原照制作纪念磁贴，记录旅行编号与共享边，延伸可拼接旅行足迹地图"
+  default_prompt: "请用 $travel-memento-magnets 根据我的行程和1～2张原照设计旅行纪念冰箱贴；若为系列延伸，先读取编号并确认连接方向。"
